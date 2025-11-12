@@ -1,6 +1,7 @@
 <!-- Banner (optional): add a header image file to the repo and reference it here -->
 
-<img width="1280" height="320" alt="header_v2" src="https://github.com/user-attachments/assets/ff2fc24d-98d3-4f07-9b91-aa0ef3cfdcd1" />
+![header](./assets/header_professional_lightblue_anim.gif)
+
 
 # Hi — I’m Shine Jose 👋
 
