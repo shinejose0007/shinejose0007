@@ -1,76 +1,86 @@
-# ![header](./assets/header_professional_lightblue_anim.gif)
-![header_professional_lightblue_anim](https://github.com/user-attachments/assets/cb6f594b-ea3d-4062-9697-5f1e2b7daabf)
+<!-- Banner -->
+![header](./assets/header_professional_lightblue_anim.gif)
 
-# Hi — I’m Shine Jose
-
-**Data Scientist • Machine Learning Engineer • Time-Series Forecasting**
-
-I build production-ready forecasting solutions and interactive analytics that turn noisy time-series into actionable insight. I focus on robust model evaluation, explainability, and end-to-end delivery — from data pipeline to dashboard.
-
-**📍 Darmstadt · Open to collaborations, contract roles, and data projects**
+<!-- Typing-style intro -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3500&pause=1000&color=0B6FAF&center=false&vCenter=true&width=600&lines=Hi+I'm+Shine+Jose;Data+Scientist+%7C+Machine+Learning+Engineer;Time-Series+%26+Forecasting+Specialist)
 
 ---
 
-## Professional summary
-- Experienced in time-series forecasting, demand and energy modelling, and model deployment.  
-- Strong emphasis on reproducibility, rigorous evaluation, and communicating results to stakeholders.  
-- Comfortable building prototypes and production systems using Python, ML frameworks, and modern visualization platforms.
+## 🧭 About Me
+
+🎯 **Transforming Data into Decisions**  
+📊 **Data Science · Machine Learning · Time-Series Forecasting**
+
+I specialize in developing **forecasting pipelines**, **data-driven dashboards**, and **ML solutions** that move from experimentation to production.  
+Passionate about explainable AI, energy analytics, and turning raw data into actionable business intelligence.
 
 ---
 
-## Core competencies
-- Time-Series Forecasting: ARIMA, Prophet, ETS, LSTM/Seq2Seq  
-- Machine Learning & Deep Learning: scikit-learn, PyTorch, feature engineering  
-- Engineering & Reproducibility: pipelines, Docker, CI/CD, model monitoring  
-- Visualization & Dashboards: Streamlit, Plotly, Tableau, Power BI
+## ⚙️ Tech Stack & Tools
 
----
-
-## Technical toolbox
-![Python](https://img.shields.io/badge/-Python-000?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-pandas-150?logo=pandas&logoColor=white)
+### 🧮 Data Science & Analytics  
+![Python](https://img.shields.io/badge/-Python-000?logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-000?logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000?logo=numpy)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?logo=scikit-learn)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=pytorch&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-000?logo=streamlit&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-000?logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/-PowerBI-000?logo=microsoft-power-bi&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/-Statsmodels-000)
+![Prophet](https://img.shields.io/badge/-Prophet-000)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=pytorch)
+
+### 📊 Visualization & Dashboards  
+![Tableau](https://img.shields.io/badge/-Tableau-000?logo=tableau)
+![PowerBI](https://img.shields.io/badge/-PowerBI-000?logo=microsoft-power-bi)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000?logo=streamlit)
+![Plotly](https://img.shields.io/badge/-Plotly-000?logo=plotly)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000)
+
+### 🗃️ Databases & Tools  
+![MySQL](https://img.shields.io/badge/-MySQL-000?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-000?logo=sqlite)
+![VSCode](https://img.shields.io/badge/-VSCode-000?logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?logo=jupyter)
+![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
 
 ---
 
-## Selected projects
-> Each project repository includes a short summary, reproducible notebooks or scripts, and a demo or visual output where applicable.
+## 💡 Featured Projects
 
-### [Energy-Forecasting](https://github.com/shinejose0007/energy-forecasting)  
-End-to-end energy demand forecasting pipeline: data ingestion, feature engineering, model training, backtesting, and a Streamlit demo. (Key metrics: RMSE = *X*, forecasting horizon = *Y*.)
+### 🔹 [energy-forecasting](https://github.com/shinejose0007/energy-forecasting)
+End-to-end **energy demand forecasting** pipeline — data ingestion, model training, evaluation, and Streamlit dashboard.
 
-### [Load-Forecasting-models](https://github.com/shinejose0007/load-forecasting-models)  
-Systematic comparison of ARIMA, Prophet and LSTM approaches with cross-validation, error analysis, and reproducible notebooks.
+### 🔹 [load-forecasting-models](https://github.com/shinejose0007/load-forecasting-models)
+Comparative analysis of **ARIMA, Prophet, and LSTM** for load forecasting with interpretability and backtesting.
 
-### [Eda-Dashboards](https://github.com/shinejose0007/eda-dashboards)  
-Interactive exploratory dashboards (Plotly + Streamlit) demonstrating feature importance, seasonality, and anomaly detection workflows.
-
-*(Tip: pin these repositories to your profile so they appear prominently.)*
+### 🔹 [eda-dashboards](https://github.com/shinejose0007/eda-dashboards)
+Interactive **EDA dashboards** using Plotly & Streamlit to visualize seasonality, trends, and outliers.
 
 ---
 
-## How I work
-- I structure projects for reproducibility: clear README, requirements, and runnable examples (notebooks / scripts / Docker).  
-- I prioritize clear metrics (RMSE, MAE, MAPE) and visualize model performance vs. baseline.  
-- I document assumptions, dataset provenance, and evaluation approach for every analysis.
+## 🤝 Collaboration
+- I value reproducibility, transparency, and clear documentation.  
+- Open to **collaborations, research projects, and data-driven consulting**.  
+- PRs, feedback, and discussions welcome.
 
 ---
 
-## Collaboration & contributions
-- I welcome contributions and constructive feedback. Repositories include CONTRIBUTING guidelines and labels for `good first issue` / `help wanted` where appropriate.  
-- If you would like to collaborate on forecasting challenges, dashboards, or production ML pipelines, please reach out.
+## 📬 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![X (Twitter)](https://img.shields.io/badge/-Twitter-000?logo=x)](https://x.com/yourhandle)
+[![Email](https://img.shields.io/badge/-Email-000?logo=gmail)](mailto:your.email@example.com)
 
----
-
-## GitHub activity & insights
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinejose0007&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shinejose0007&show_icons=true)
+📍 Based in **Darmstadt, Germany**  
+💼 Open to **Data Science | Forecasting | Dashboard Development** roles
 
 ---
 
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=shinejose0007&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinejose0007&layout=compact&theme=transparent)
+
+---
+
+⭐ *“Good data science is about clarity — not just prediction.”*  
 
