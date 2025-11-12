@@ -48,13 +48,13 @@ Passionate about explainable AI, energy analytics, and turning raw data into act
 
 ## 💡 Featured Projects
 
-### 🔹 [energy-forecasting](https://github.com/shinejose0007/energy-forecasting)
+### 🔹 [Energy-Forecasting](https://github.com/shinejose0007/energy-forecasting)
 End-to-end **energy demand forecasting** pipeline — data ingestion, model training, evaluation, and Streamlit dashboard.
 
-### 🔹 [load-forecasting-models](https://github.com/shinejose0007/load-forecasting-models)
+### 🔹 [Load-Forecasting-models](https://github.com/shinejose0007/load-forecasting-models)
 Comparative analysis of **ARIMA, Prophet, and LSTM** for load forecasting with interpretability and backtesting.
 
-### 🔹 [eda-dashboards](https://github.com/shinejose0007/eda-dashboards)
+### 🔹 [EDA-Dashboards](https://github.com/shinejose0007/eda-dashboards)
 Interactive **EDA dashboards** using Plotly & Streamlit to visualize seasonality, trends, and outliers.
 
 ---
@@ -73,7 +73,7 @@ Interactive **EDA dashboards** using Plotly & Streamlit to visualize seasonality
 [![Email](https://img.shields.io/badge/-Email-000?logo=gmail)](mailto:your.email@example.com)
 
 📍 Based in **Darmstadt, Germany**  
-💼 Open to **Data Science | Forecasting | Dashboard Development** roles
+💼 Open to **Data Science | Data Analyst | Forecasting | AI| Dashboard Development** roles
 
 ---
 
