@@ -1,7 +1,8 @@
 <!-- Banner (optional): add a header image file to the repo and reference it here -->
-![header](./assets/header.png)
+<img width="1280" height="320" alt="header" src="https://github.com/user-attachments/assets/08409167-d824-4c2e-9d43-6a0e355495ab" />
 
 # Hi — I’m Shine Jose 👋
+
 **Data Scientist · Machine Learning · Time-Series Forecasting**  
 I turn data into decisions. Interested in forecasting, ML, and bringing AI into production.
 
