@@ -40,13 +40,13 @@ I build production-ready forecasting solutions and interactive analytics that tu
 ## Selected projects
 > Each project repository includes a short summary, reproducible notebooks or scripts, and a demo or visual output where applicable.
 
-### [energy-forecasting](https://github.com/shinejose0007/energy-forecasting)  
+### [Energy-Forecasting](https://github.com/shinejose0007/energy-forecasting)  
 End-to-end energy demand forecasting pipeline: data ingestion, feature engineering, model training, backtesting, and a Streamlit demo. (Key metrics: RMSE = *X*, forecasting horizon = *Y*.)
 
-### [load-forecasting-models](https://github.com/shinejose0007/load-forecasting-models)  
+### [Load-Forecasting-models](https://github.com/shinejose0007/load-forecasting-models)  
 Systematic comparison of ARIMA, Prophet and LSTM approaches with cross-validation, error analysis, and reproducible notebooks.
 
-### [eda-dashboards](https://github.com/shinejose0007/eda-dashboards)  
+### [Eda-Dashboards](https://github.com/shinejose0007/eda-dashboards)  
 Interactive exploratory dashboards (Plotly + Streamlit) demonstrating feature importance, seasonality, and anomaly detection workflows.
 
 *(Tip: pin these repositories to your profile so they appear prominently.)*
@@ -64,13 +64,6 @@ Interactive exploratory dashboards (Plotly + Streamlit) demonstrating feature im
 - I welcome contributions and constructive feedback. Repositories include CONTRIBUTING guidelines and labels for `good first issue` / `help wanted` where appropriate.  
 - If you would like to collaborate on forecasting challenges, dashboards, or production ML pipelines, please reach out.
 
----
-
-## Contact
-- LinkedIn: `https://www.linkedin.com/in/your-linkedin`  
-- X (Twitter): `https://x.com/yourhandle`  
-- Email: `your.email@example.com`  
-- Portfolio / CV: `https://yourwebsite.example` *(optional)*
 
 ---
 
@@ -80,8 +73,4 @@ Interactive exploratory dashboards (Plotly + Streamlit) demonstrating feature im
 
 ---
 
-### Final notes & quick setup
-- To make the header appear on your profile, create a repository named **exactly** `shinejose0007` and add this `README.md`. Upload the banner GIF to `./assets/header_professional_lightblue_anim.gif` in that repo and commit.  
-- Pin your 4–6 strongest repos via your GitHub profile settings so they appear beside the README.  
-- Add repo topics (e.g., `time-series`, `forecasting`, `streamlit`, `tableau`) to improve discoverability.
 
