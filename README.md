@@ -1,5 +1,7 @@
 <!-- Banner (optional): add a header image file to the repo and reference it here -->
 
+![header_professional_lightblue_anim](https://github.com/user-attachments/assets/59fd569f-6cd2-4ace-a33e-1a5d8f6be1a3)
+
 ![header](./assets/header_professional_lightblue_anim.gif)
 
 
