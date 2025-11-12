@@ -1,4 +1,5 @@
 # ![header](./assets/header_professional_lightblue_anim.gif)
+![header_professional_lightblue_anim](https://github.com/user-attachments/assets/cb6f594b-ea3d-4062-9697-5f1e2b7daabf)
 
 # Hi — I’m Shine Jose
 
