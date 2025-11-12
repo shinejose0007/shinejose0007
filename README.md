@@ -76,10 +76,19 @@ Interactive **EDA dashboards** using Plotly & Streamlit to visualize seasonality
 💼 Open to **Data Science | Data Analyst | Forecasting | AI| Dashboard Development** roles
 
 ---
+## 📈 GitHub Stats & Achievements
 
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=shinejose0007&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinejose0007&layout=compact&theme=transparent)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=shinejose0007&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinejose0007&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-trophy.vercel.app/?username=shinejose0007&theme=onedark&row=1" alt="Trophies" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=shinejose0007&theme=blueberry&hide_border=true" alt="Streak Stats" /></td>
+  </tr>
+</table>
+
 
 ---
 
