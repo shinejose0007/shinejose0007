@@ -1,5 +1,6 @@
 <!-- Banner -->
 ![header](./assets/header_professional_lightblue_anim.gif)
+![header_professional_lightblue_anim](https://github.com/user-attachments/assets/2b8e8671-fee8-46d9-bbf7-a7f7c1d313e6)
 
 <!-- Typing-style intro -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3500&pause=1000&color=0B6FAF&center=false&vCenter=true&width=600&lines=Hi+I'm+Shine+Jose;Data+Scientist+%7C+Machine+Learning+Engineer;Time-Series+%26+Forecasting+Specialist)
