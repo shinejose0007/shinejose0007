@@ -69,7 +69,6 @@ Interactive **EDA dashboards** using Plotly & Streamlit to visualize seasonality
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![X (Twitter)](https://img.shields.io/badge/-Twitter-000?logo=x)](https://x.com/yourhandle)
 [![Email](https://img.shields.io/badge/-Email-000?logo=gmail)](mailto:your.email@example.com)
 
 📍 Based in **Darmstadt, Germany**  
@@ -92,5 +91,11 @@ Interactive **EDA dashboards** using Plotly & Streamlit to visualize seasonality
 
 ---
 
-⭐ *“Good data science is about clarity — not just prediction.”*  
+🏁 Currently Learning
+📘 Advanced Power BI & Data Science
+💼 Real-time project execution
+
+
+
+⭐   Thanks for visiting!  *“Good data science is about clarity — not just prediction.”*  
 
